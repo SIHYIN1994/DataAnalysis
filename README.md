@@ -8,7 +8,7 @@
   ## 使用書目 
 
   <div>
-     <a style="text-decoration:none" href="https://search.books.com.tw/search/query/key/%E6%97%97%E6%A8%99AI%E8%A1%8C%E9%8A%B7/cat/all">旗標銷售AI化</a>
+     <a style="text-decoration:none" href="https://www.flag.com.tw/books/product/F2323">旗標銷售AI化</a>
   </div>
   
 <div>
